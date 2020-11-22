@@ -1,0 +1,89 @@
+Transaction ID,Transaction Date,Location,Account Type,Amount,Transaction Status,Denied Message,Transaction Type
+1,9/1/2020 12:05,Follett TIA,Bulldog Bucks,8.67,Successful,N/A,Sale
+2,9/1/2020 12:12,UD Marketplace HC,Bulldog Bucks,2.88,Successful,N/A,Sale
+3,9/1/2020 17:21,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+4,9/1/2020 17:21,UD Duff's Bistro,Bulldog Bucks,9.79,Successful,N/A,Sale
+5,9/2/2020 18:36,BbOne Blaze Pizza,Bulldog Bucks,14.10,Successful,N/A,Sale
+6,9/3/2020 19:45,BbOne Caruso's,Bulldog Bucks,16.70,Successful,N/A,Sale
+7,9/4/2020 19:16,UD FINANCIAL OFFICE,Bulldog Bucks,-300.00,Successful,N/A,Deposit
+8,9/4/2020 19:22,BbOne McDonald's,Bulldog Bucks,13.47,Successful,N/A,Sale
+9,9/5/2020 18:04,BbOne Domino's,Bulldog Bucks,8.70,Successful,N/A,Sale
+10,9/6/2020 16:04,BbOne URM Cash & Carry,Bulldog Bucks,14.20,Successful,N/A,Sale
+11,9/6/2020 17:31,BbOne Qdoba Mexican Eats,Bulldog Bucks,9.75,Successful,N/A,Sale
+12,9/9/2020 11:59,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+13,9/9/2020 12:00,UD Bulldog,Bulldog Bucks,14.95,Successful,N/A,Sale
+14,9/13/2020 13:39,BbOne URM Cash & Carry,Bulldog Bucks,78.77,Successful,N/A,Sale
+15,9/13/2020 14:12,UD Duff's Bistro,Bulldog Bucks,7.00,Successful,N/A,Sale
+16,9/14/2020 14:05,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+17,9/14/2020 14:05,UD Duff's Bistro,Bulldog Bucks,7.50,Successful,N/A,Sale
+18,9/14/2020 18:38,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+19,9/14/2020 18:38,UD Duff's Bistro,Bulldog Bucks,7.50,Successful,N/A,Sale
+20,9/14/2020 18:50,UD Duff's Bistro,Bulldog Bucks,2.99,Successful,N/A,Sale
+21,9/15/2020 11:55,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+22,9/15/2020 11:55,UD Duff's Bistro,Bulldog Bucks,7.50,Successful,N/A,Sale
+23,9/15/2020 12:03,UD Duff's Bistro,Bulldog Bucks,2.99,Successful,N/A,Sale
+24,9/15/2020 17:58,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+25,9/15/2020 17:58,UD Duff's Bistro,Bulldog Bucks,7.50,Successful,N/A,Sale
+26,9/15/2020 18:10,UD Duff's Bistro,Bulldog Bucks,2.99,Successful,N/A,Sale
+27,9/16/2020 12:03,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+28,9/16/2020 12:03,UD Duff's Bistro,Bulldog Bucks,7.50,Successful,N/A,Sale
+29,9/17/2020 13:45,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+30,9/17/2020 13:45,UD Duff's Bistro,Bulldog Bucks,7.50,Successful,N/A,Sale
+31,9/17/2020 18:15,BbOne Domino's,Bulldog Bucks,8.70,Successful,N/A,Sale
+32,9/18/2020 18:57,BbOne Sonic,Bulldog Bucks,13.37,Successful,N/A,Sale
+33,9/20/2020 13:11,UD Duff's Bistro,Bulldog Bucks,6.09,Successful,N/A,Sale
+34,9/20/2020 17:11,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+35,9/20/2020 17:11,UD Duff's Bistro,Bulldog Bucks,11.99,Successful,N/A,Sale
+36,9/21/2020 11:47,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+37,9/21/2020 11:47,UD Duff's Bistro,Bulldog Bucks,4.49,Successful,N/A,Sale
+38,9/21/2020 15:43,UD Fuel Cell - Martin Centre,Bulldog Bucks,3.50,Successful,N/A,Sale
+39,9/21/2020 19:02,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+40,9/21/2020 19:02,UD Duff's Bistro,Bulldog Bucks,7.50,Successful,N/A,Sale
+41,9/22/2020 10:41,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+42,9/22/2020 10:41,UD Duff's Bistro,Bulldog Bucks,4.49,Successful,N/A,Sale
+43,9/23/2020 15:41,UD Duff's Bistro,Bulldog Bucks,9.07,Successful,N/A,Sale
+44,9/23/2020 22:03,UD Sodexo Vending API,Bulldog Bucks,2.75,Successful,N/A,Sale
+45,9/24/2020 12:09,UD Duff's Bistro,Bulldog Bucks,1.39,Successful,N/A,Sale
+46,9/24/2020 17:07,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+47,9/24/2020 17:07,UD Duff's Bistro,Bulldog Bucks,8.99,Successful,N/A,Sale
+48,9/25/2020 16:12,UD Duff's Bistro,Bulldog Bucks,3.68,Successful,N/A,Sale
+49,9/25/2020 18:30,BbOne Sonic,Bulldog Bucks,15.31,Successful,N/A,Sale
+50,9/26/2020 19:41,BbOne Domino's,Bulldog Bucks,8.70,Successful,N/A,Sale
+51,9/27/2020 10:53,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+52,9/27/2020 10:53,UD Duff's Bistro,Bulldog Bucks,4.49,Successful,N/A,Sale
+53,9/27/2020 17:42,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+54,9/27/2020 17:42,UD Duff's Bistro,Bulldog Bucks,4.50,Successful,N/A,Sale
+55,9/28/2020 11:21,BbOne URM Cash & Carry,Bulldog Bucks,55.56,Successful,N/A,Sale
+56,9/28/2020 19:25,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+57,9/28/2020 19:25,UD Duff's Bistro,Bulldog Bucks,5.49,Successful,N/A,Sale
+58,10/1/2020 20:59,UD Sodexo Vending API,Bulldog Bucks,3.75,Successful,N/A,Sale
+59,10/2/2020 14:21,UD Starbucks,Bulldog Bucks,3.05,Successful,N/A,Sale
+60,10/2/2020 20:53,UD Sodexo Vending API,Bulldog Bucks,2.00,Successful,N/A,Sale
+61,10/3/2020 14:44,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+62,10/3/2020 14:44,UD Duff's Bistro,Bulldog Bucks,7.99,Successful,N/A,Sale
+63,10/3/2020 18:02,BbOne McDonald's,Bulldog Bucks,7.27,Successful,N/A,Sale
+64,10/8/2020 14:05,UD Duff's Bistro,Bulldog Bucks,3.98,Successful,N/A,Sale
+65,10/9/2020 11:14,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+66,10/9/2020 11:14,UD Duff's Bistro,Bulldog Bucks,5.49,Successful,N/A,Sale
+67,10/9/2020 19:26,BbOne Domino's,Bulldog Bucks,8.70,Successful,N/A,Sale
+68,10/9/2020 20:57,UD Sodexo Vending API,Bulldog Bucks,2.00,Successful,N/A,Sale
+69,10/11/2020 13:48,BbOne Wendy's,Bulldog Bucks,9.11,Successful,N/A,Sale
+70,10/11/2020 17:50,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+71,10/11/2020 17:50,UD Duff's Bistro,Bulldog Bucks,4.49,Successful,N/A,Sale
+72,10/11/2020 17:59,UD Duff's Bistro,Bulldog Bucks,1.39,Successful,N/A,Sale
+73,10/13/2020 16:56,BbOne URM Cash & Carry,Bulldog Bucks,61.79,Successful,N/A,Sale
+74,10/16/2020 19:27,BbOne Domino's,Bulldog Bucks,8.70,Successful,N/A,Sale
+75,10/17/2020 22:17,UD Sodexo Vending API,Bulldog Bucks,2.00,Successful,N/A,Sale
+76,10/18/2020 11:48,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+77,10/18/2020 11:48,UD Duff's Bistro,Bulldog Bucks,5.49,Successful,N/A,Sale
+78,10/21/2020 17:29,BbOne URM Cash & Carry,Bulldog Bucks,23.03,Successful,N/A,Sale
+79,10/22/2020 17:44,BbOne McDonald's,Bulldog Bucks,7.27,Successful,N/A,Sale
+80,10/24/2020 11:20,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+81,10/24/2020 11:20,UD Duff's Bistro,Bulldog Bucks,4.49,Successful,N/A,Sale
+82,10/25/2020 10:35,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+83,10/25/2020 10:35,UD Duff's Bistro,Bulldog Bucks,4.49,Successful,N/A,Sale
+84,10/25/2020 16:10,BbOne Domino's,Bulldog Bucks,9.00,Successful,N/A,Sale
+85,10/26/2020 18:25,UD Tapingo,Bulldog Bucks,0.29,Successful,N/A,Sale
+86,10/26/2020 18:25,UD Duff's Bistro,Bulldog Bucks,4.49,Successful,N/A,Sale
+87,10/29/2020 17:06,BbOne URM Cash & Carry,Bulldog Bucks,20.63,Successful,N/A,Sale
+88,10/30/2020 19:15,BbOne Domino's,Bulldog Bucks,8.70,Successful,N/A,Sale
